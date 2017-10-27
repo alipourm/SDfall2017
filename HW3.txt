@@ -1,1 +1,2 @@
 MYNAME, https://github.com/MYGIT_ID/MYPROJECT_NAME, TAG
+James Rodgers, https://github.com/jerodgers1/Homework3/tree/Final, Final
