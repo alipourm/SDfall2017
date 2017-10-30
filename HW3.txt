@@ -17,6 +17,7 @@ Nour Smaoui, https://github.com/nourSmaoui/HW3, v1.0
 Prativa Devkota, https://github.com/devkotaprativa/software_design_hw3, final 
 Rolando Rivera, https://github.com/rjr0113/homework3, final
 Tien Nguyen, https://github.com/TinnWinn/Software_Design_HW3, Final
+Daniel Tang, https://github.com/dtang855/Homework3, final
 Gustavo Arismendi, https://github.com/gus07ven/Software-Design, v2.0
 Rohitha Reddy Muppidi,https://github.com/rohithareddy/SDAssignment,Final
 Dhaiwat Patel, https://github.com/Dpat09/SDassignment3, Final
