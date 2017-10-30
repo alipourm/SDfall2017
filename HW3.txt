@@ -12,3 +12,4 @@ Etienne Pierre-Jerome https://github.com/epierrej/Software-Design-HW3, v1.0
 Erick Ramirez, https://github.com/Dustmaner/BinaryReading, v1.0.0
 Detrich Utti, https://github.com/dee426/Sort-Hw-2.1, Final Version
 Lindsie Dinh, https://github.com/lindsiedinh/Homework3, final
+Nour Smaoui, https://github.com/nourSmaoui/HW3, v1.0
