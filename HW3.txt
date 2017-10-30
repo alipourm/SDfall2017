@@ -6,3 +6,4 @@ Ramon Ramirez, https://github.com/rrramirez/Homework3, Final
 Ryan Farrell, https://github.com/rfarr89/COSC4353, v1.0
 Jeremy Le, https://github.com/jeremyle1/Homework3, final
 Kasey Nieman, https://github.com/knknieman/COSC4353_Nieman, Final
+Etienne Pierre-Jerome https://github.com/epierrej/Software-Design-HW3, v1.0
