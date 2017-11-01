@@ -34,3 +34,4 @@ Zengye Tu,https://github.com/tuzengye/SoftwareDesign, Final
 Nikhita Singh Satish, https://github.com/nikhita31/SD_HW3, version1.0
 Naveen Milind Chalawadi, https://github.com/naveen0303/sd-hw3-naveen, Final1
 Jeremy Fairchild, https://github.com/JeremyFairchild/SDHomework3, final
+Justin K Augustine, https://github.com/jkaugust/HW3, Final
