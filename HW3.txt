@@ -1,2 +1,43 @@
 MYNAME, https://github.com/MYGIT_ID/MYPROJECT_NAME, TAG
+Stacy Giang, https://github.com/skgiang/cosc4353-hwk3, HWK3-final-submit
+Tommy Huynh, https://github.com/TommyTHuynh/COSC4353HW3, final
 James Rodgers, https://github.com/jerodgers1/Homework3/tree/Final, Final
+Ramon Ramirez, https://github.com/rrramirez/Homework3, RealFinal
+Ryan Farrell, https://github.com/rfarr89/COSC4353, v1.0
+Mike Schulenberg, https://github.com/MikeSchulenberg/Assignment3, final_submission
+Naresh Kumar Saravana Shanmugasundaram, https://github.com/nareshkumarss/BinarySearch, v1.0.0
+Jeremy Le, https://github.com/jeremyle1/Homework3, final
+Kasey Nieman, https://github.com/knknieman/COSC4353_Nieman, Final
+Etienne Pierre-Jerome https://github.com/epierrej/Software-Design-HW3, v1.0
+Erick Ramirez, https://github.com/Dustmaner/BinaryReading, v1.0.0
+Detrich Utti, https://github.com/dee426/Sort-Hw-2.1, Final Version
+Raafat Feki, https://github.com/raafatfeki/HW3, v1.0
+Lindsie Dinh, https://github.com/lindsiedinh/Homework3, final
+Nour Smaoui, https://github.com/nourSmaoui/HW3, v1.0
+Prativa Devkota, https://github.com/devkotaprativa/software_design_hw3, final 
+Rolando Rivera, https://github.com/rjr0113/homework3, final
+Tien Nguyen, https://github.com/TinnWinn/Software_Design_HW3, Final
+Daniel Tang, https://github.com/dtang855/Homework3, final
+Gustavo Arismendi, https://github.com/gus07ven/Software-Design, v2.0
+Rohitha Reddy Muppidi,https://github.com/rohithareddy/SDAssignment,Final
+Dhaiwat Patel, https://github.com/Dpat09/SDassignment3, Final
+Yik Chun Ng, https://github.com/nykeith/COSC4353/tree/master/Homework%203, v1.0
+Rohith Cherian, https://github.com/rohithcherian/SD-Assignment-3, FinalAssignmentTag
+Harshit Singh, https://github.com/Harshit1503/Software-Design---HW3, 1.0
+Smeet Chitalia, https://github.com/csmeet1495/Software-Design-HW3, v1.0
+Pramit Shah, https://github.com/Pramitshah/SDHW3, hw3.1
+Paul Weber, https://github.com/pweber23/HW3, v1.0
+Napoleon de Mesa, https://github.com/napdemesa/Homework3, Final
+ANIRUDH RAVISHANKAR, https://github.com/ani4991/SDHW3, v1.1
+Saikrishna Ramalingam, https://github.com/Saikrishna41/SDHW3-, finalhw
+Zengye Tu,https://github.com/tuzengye/SoftwareDesign, Final
+Nikhita Singh Satish, https://github.com/nikhita31/SD_HW3, version1.0
+Naveen Milind Chalawadi, https://github.com/naveen0303/sd-hw3-naveen, Final1
+Jeremy Fairchild, https://github.com/JeremyFairchild/SDHomework3, final
+Justin K Augustine, https://github.com/jkaugust/HW3, Final
+Anmol Valabh, https://github.com/AValabh/HomeWork3, V1
+ravali basna,https://github.com/ravalibasna/SDAssignment3,final
+Nivedita Vattipalli, https://github.com/nvattipalli/SDAssignment3, Final
+Harshitha Krishna,https://github.com/UHSDFall17/Hw3SD/tree/hashkich-patch-1,Final
+Dinesh Reddy Bethi, https://github.com/dinesreddybethi/HomeworkSD, Final
+chethana dukkipati,https://github.com/chethanadukkipati/HWSD,final
